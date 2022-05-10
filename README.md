@@ -5,24 +5,24 @@ The course aims to offer students a hands-on experience on Operating System conc
 <br><br>
 
 <h3>
-1. Basic Linux commands <br>
-2. Shell programming  <br>
- -Command syntax  <br>
- -Write simple functions with basic tests, loops, patterns <br>
+1. Basic Linux commands <br><br>
+2. Shell programming  <br><br>
+ -Command syntax  <br><br>
+ -Write simple functions with basic tests, loops, patterns <br><br>
 3. System calls of Linux operating system:* <br>
- fork, exec, getpid, exit, wait, close, stat, opendir, readdir <br>
-4. Write programs using the I/O system calls of Linux operating system (open, read, write)<br>
-5. Implement programs for Inter Process Communication using Shared Memory *<br>
-6. Implement Semaphores*<br>
-7. Implementation of CPU scheduling algorithms. a) Round Robin b) SJF c) FCFS d)
-Priority *
+ fork, exec, getpid, exit, wait, close, stat, opendir, readdir <br><br>
+4. Write programs using the I/O system calls of Linux operating system (open, read, write)<br><br>
+5. Implement programs for Inter Process Communication using Shared Memory *<br><br>
+6. Implement Semaphores*<br><br>
+7. Implementation of CPU scheduling algorithms. <br>a) Round Robin b) SJF c) FCFS d)
+Priority *<br><br>
 8. Implementation of the Memory Allocation Methods for fixed partition*<br>
-a) First Fit b) Worst Fit c) Best Fit<br>
-9. Implement l page replacement algorithms<br> a) FIFO b) LRU c) LFU*<br>
-10. Implement the banker’s algorithm for deadlock avoidance. *<br>
-11. Implementation of Deadlock detection algorithm<br>
+a) First Fit b) Worst Fit c) Best Fit<br><br>
+9. Implement l page replacement algorithms<br> a) FIFO b) LRU c) LFU*<br><br>
+10. Implement the banker’s algorithm for deadlock avoidance. *<br><br>
+11. Implementation of Deadlock detection algorithm<br><br>
 12. Simulate file allocation strategies.<br>
-b) Sequential b) Indexed c) Linked<br>
+b) Sequential b) Indexed c) Linked<br><br>
 13. Simulate disk scheduling algorithms. *<br>
 c) FCFS b)SCAN c) C-SCAN <br><br>
 * mandatory<br><br>
