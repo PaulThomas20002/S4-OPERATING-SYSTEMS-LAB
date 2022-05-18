@@ -51,23 +51,22 @@ Display or change the date & time
 Stop a process from running
 
 18. ls
-
 List information about file(s)
 
 19. mkdir
+Create new folder(s)
 
-_Create new folder(s)_
+20. break 
+Exit from a loop
 
-## 20. break 
+21. exit
+Exit the shell
 
-_Exit from a loop_
-
-## 21. exit
-
-Exit the shell_
 22. cat
 concatenate files and print on the standard output
+
 23. rm
 rm removes each specified file
+
 24. echo
 display a line of text
