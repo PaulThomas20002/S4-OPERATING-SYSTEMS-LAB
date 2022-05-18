@@ -1,80 +1,60 @@
-# Basic Linux Commands
+ Basic Linux Commands
+1. man
+Help manual
 
+2. cd
+Changes a shell‘s current working directory
 
-## 1. man
+3. cp
+Copies files
 
-_Help manual_
+4. find
+Searches files matching certain given criteria
 
-## 2. cd
+5. less
+Displays texts (such as manual pages) by page
 
-_Changes a shell‘s current working directory_
+6. ln
+Lists file information or directory contents
 
-## 3. cp
+7. mkdir
+Creates new directories
 
-_Copies files_
+8. more
+Displays text data by page
 
-## 4. find
+9. mv
+Moves files to different directories or renames them
 
-_Searches files matching certain given criteria_
+10. pwd
+Displays the name of the current working directory
 
+11. rmdir
+Removes (empty) directories
 
-## 5. less
+12. adduser
+Add a new user
 
-_Displays texts (such as manual pages) by page_
+13. awk
+Find and Replace text within file(s)
 
-## 6. ln
+14. chmod
+Change the access permissions of files and directories
 
-_Lists file information or directory contents_
+15. clear
+Clear terminal screen
 
-## 7. mkdir
+16. date
+Display or change the date & time
 
-_Creates new directories_
+17. kill
+Stop a process from running
 
-## 8. more
+18. ls
 
-_Displays text data by page_
+List information about file(s)
 
-## 9. mv
-
-_Moves files to different directories or renames them_
-
-## 10. pwd
-
-_Displays the name of the current working directory_
-
-## 11. rmdir
-
-_Removes (empty) directories_
-
-## 12. adduser
-
-_Add a new user_
-
-## 13. awk
-
-_Find and Replace text within file(s)_
-
-## 14. chmod
-
-_Change the access permissions of files and directories_
-
-## 15. clear
-
-_Clear terminal screen_
-
-## 16. date
-
-_Display or change the date & time_
-
-## 17. kill
-
-_Stop a process from running_
-
-## 18. ls
-
-_List information about file(s)_
-
-## 19. mkdir
+19. mkdir
 
 _Create new folder(s)_
 
