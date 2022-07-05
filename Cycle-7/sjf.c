@@ -1,3 +1,24 @@
+/*
+
+Ex.No:5.d
+CPU SCHEDULING ALGORITHMS
+SJF SCHEDULING
+AIM:
+ To write a C program for implementation of SJF scheduling algorithms.
+ALGORITHM:
+Step 1: Inside the structure declare the variables.
+Step 2: Declare the variable i,j as integer,totwtime and totttime is equal to zero.
+Step 3: Get the value of „n‟ assign pid as I and get the value of p[i].btime.
+Step 4: Assign p[0] wtime as zero and tot time as btime and inside the loop calculate wait time
+and turnaround time.
+Step 5: Calculate total wait time and total turnaround time by dividing by total number of
+process.
+Step 6: Print total wait time and total turnaround time.
+Step 7: Stop the program.
+
+
+*/
+
 #include<stdio.h>
 
 int main() {
