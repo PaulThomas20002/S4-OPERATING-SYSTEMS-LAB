@@ -23,19 +23,6 @@ int main(){
         int wait_time = 0,turnaround_time = 0, at[10], bt[10], rt[10];
         printf("Enter Total Process : \t ");
         scanf("%d",&n);
-
-              else if( at[count+1] <= time)
-                        count++;
-                else
-                        count=0;
-                } 
-                printf("\nAverage Waiting Time= %f\n", wait_time * 1.0 / n); 
-                printf("\nAvg Turnaround Time =%f\n", turnaround_time * 1.0 / n);
-
-return 0;
-}
-
-
         remain = n;
         for( count = 0; count < n; count++){
                 printf("Enter Arrival Time and Burst Time for Process Process Number %d :", count+1);
