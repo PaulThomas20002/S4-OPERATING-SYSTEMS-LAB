@@ -1,3 +1,21 @@
+/*ALGORITHM:
+Step1:Get the number of process.
+Step2:Get the id and service time for each process.
+Step3:Initially the waiting time of first short process as 0 and total time of first
+short is process the service time of that process.
+Step4:Calculate the total time and waiting time of remaining process.
+Step5:Waiting time of one process is the total time of the previous process.
+Step6:Total time of process is calculated by adding the waiting time and service
+time of each process.
+Step7:Total waiting time calculated by adding the waiting time of each process.
+Step8:Total turn around time calculated by adding all total time of each process.
+Step9:calculate average waiting time by dividing the total waiting time by total
+number of process.
+Step10:Calculate average turn around time by dividing the total waiting time by
+total number of process.
+Step11:Display the result.
+*/
+
 #include <stdio.h>
 struct process
 { int pid,priority,done;
